@@ -1,2 +1,2 @@
 # Calendar_slots
-Find free time slots for non-gmail calendars like Yahoo, Outlook etc
+Find free time slots for non-gmail calendars like Yahoo, Outlook etc. This script analyzes a public or private ICS calendar feed (such as Outlook, Google Calendar, or Apple Calendar) and identifies free time slots within a standard workday (default: 9 AM–5 PM) across a user-specified date range. It downloads the ICS file, expands recurring events, merges overlapping meetings, and returns all available windows that are at least 30 minutes long. The user is prompted for the start date, end date, ICS URL, and timezone before any processing occurs.
