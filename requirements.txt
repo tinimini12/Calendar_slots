@@ -1,3 +1,6 @@
+streamlit
 icalendar
 recurring-ical-events
 pytz
+requests
+python-dateutil
